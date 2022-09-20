@@ -1,3 +1,3 @@
 # new-repo
 
-Shayne add something cool! XYZ
+Shayne add something cool! ABC
